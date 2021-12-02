@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edwin94M
 - 👀 I’m interested in python and data analysis
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on leraning python
+- 💞️ I’m looking to collaborate on learning python
 - 📫 How to reach me through email edwinatunga94@gmail.com, twitter.. @edwin_atunga.
 
 <!---
